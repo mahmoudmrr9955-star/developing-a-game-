@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+club_manager
+build/
+
+# Save files
+savegame.dat
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
